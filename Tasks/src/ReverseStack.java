@@ -10,6 +10,15 @@ public class ReverseStack {
       System.out.println(stack.pop());
 
   }
+  //OutPut
+        /*
+        50
+        40
+        30
+        20
+        10
+
+         */
 
     }
 }
