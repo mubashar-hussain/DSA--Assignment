@@ -15,6 +15,10 @@ public class RecursiveSum {
                 int result = sum(numbers, 0);
 
                 System.out.println("Sum of array elements: " + result);
+                /*
+                OUTPUT
+                sum of array element is : 30
+                 */
             }
         }
 
